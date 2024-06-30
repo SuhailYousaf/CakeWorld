@@ -1,0 +1,64 @@
+.cake-details-container {
+  display: flex;
+}
+
+.cake-content {
+  display: flex;
+}
+
+.cake-image-container {
+  width: 50%;
+  padding: 30px;
+}
+
+.small-image-container {
+  padding: 30px;
+}
+
+.image-wrapper {
+  position: relative;
+}
+
+.normal-image {
+  width: 200%;
+  max-width: 400px;
+  transition: transform 0.5s;
+}
+
+
+
+.small-image {
+  width: 150px;
+}
+
+.cake-details {
+  width: 50%;
+  padding: 20px;
+  text-align: left;
+}
+.whatsapp-order-button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.whatsapp-order-button:hover {
+  background-color: darkgreen;
+}
+.cake-details-container {
+  padding-top: 80px; /* Adjust this value as needed */
+}
+
+.cake-details {
+  margin-top: 20px;
+}
+
+.small-image-container {
+  margin-top: 20px;
+}
+
+
